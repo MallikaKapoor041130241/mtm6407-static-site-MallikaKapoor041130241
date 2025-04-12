@@ -1,0 +1,14 @@
+{
+    "name": "mtm6407-static-site-your-github-username",
+    "version": "1.0.0",
+    "description": "Personal Interest Site using Eleventy",
+    "main": "index.js",
+    "scripts": {
+      "build": "npx eleventy",
+      "start": "npx eleventy --serve"
+    },
+    "devDependencies": {
+      "@11ty/eleventy": "^2.0.0"
+    }
+  }
+  
